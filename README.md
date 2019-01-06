@@ -1,4 +1,4 @@
-<h1># COSMIC-CSS</h1>
+<header><h1># COSMIC-CSS</h1></header>
 <h3>UI Stylesheet For Web Designing</h3>
 <br><br><h2>CDN IS HOSTED</h2>
 <h4>CSS</h4><code>https://dl.dropbox.com/s/egvk77ci472mbaw/cosmos.css</code>
